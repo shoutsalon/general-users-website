@@ -226,13 +226,13 @@ const Index = () => {
                               <div className="flex items-center justify-center gap-2">
                                 <h4 className="text-xl font-semibold text-navy-900">{period.label}</h4>
                               </div>
-                              {period.male.discount > 0 || period.female.discount > 0 ? (
+                              {/* {period.male.discount > 0 || period.female.discount > 0 ? (
                                 <Badge className="bg-red-500 text-white px-3 py-1 text-xs font-semibold animate-pulse mt-1">
                                   {period.male.discount > 0 ? `${period.male.discount}% OFF (Men)` : ''}
                                   {period.male.discount > 0 && period.female.discount > 0 ? ' | ' : ''}
                                   {period.female.discount > 0 ? `${period.female.discount}% OFF (Women)` : ''}
                                 </Badge>
-                              ) : null}
+                              ) : null} */}
                             </div>
 
                             {/* Content area with flex-grow */}

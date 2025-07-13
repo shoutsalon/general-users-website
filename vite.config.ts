@@ -5,6 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  base: mode === "production" ? "/general-users-website" : "/", // ✅ Dynamic base
   server: {
     host: "::",
     port: 8080,
@@ -19,4 +20,13 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+  build: {
+    outDir: 'dist',
+  },
+  async closeBundle() {
+    const fs = await import('fs');
+    const { resolve } = await import('path');
+    fs.writeFileSync(resolve(__dirname, 'dist/.nojekyll'), '');
+  }
 }));
+

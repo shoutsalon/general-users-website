@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sarah Johnson",
+    "review": "Absolutely love the atmosphere here! The stylists are incredibly talented and the service is top-notch.",
+    "rating": 5
+  },
+  {
+    "name": "Michael Chen",
+    "review": "Best haircut I've had in years. The attention to detail and professionalism is outstanding.",
+    "rating": 5
+  },
+  {
+    "name": "Emma Davis",
+    "review": "The luxury experience makes it so comfortable for everyone. Highly recommend their spa treatments!",
+    "rating": 4
+  },
+  {
+    "name": "James Wilson",
+    "review": "Great experience every time. The booking system is easy and the staff always remembers my preferences.",
+    "rating": 5
+  }
+]

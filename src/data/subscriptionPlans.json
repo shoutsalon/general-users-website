@@ -1,0 +1,157 @@
+
+[
+  {
+    "id": 1,
+    "name": "Bronze",
+    "color": "from-orange-400 to-orange-600",
+    "borderColor": "border-orange-400",
+    "iconColor": "text-orange-500",
+    "plans": [
+      {
+        "period": "1year",
+        "label": "12 Months",
+        "male": {
+          "services": ["2 Classic Haircuts", "1 Beard Styling & Trim", "1 Eyebrow Shaping"],
+          "price": 599,
+          "discount": 50
+        },
+        "female": {
+          "services": ["2 Classic Haircuts", "1 Manicure", "1 Eyebrow Shaping"],
+          "price": 599,
+          "discount": 50
+        }
+      },
+      {
+        "period": "6months",
+        "label": "6 Months",
+        "male": {
+          "services": ["2 Classic Haircuts", "1 Beard Styling & Trim"],
+          "price": 329,
+          "discount": 0
+        },
+        "female": {
+          "services": ["2 Classic Haircuts", "1 Manicure"],
+          "price": 329,
+          "discount": 0
+        }
+      },
+      {
+        "period": "3months",
+        "label": "3 Months",
+        "male": {
+          "services": ["1 Classic Haircut", "1 Beard Styling & Trim"],
+          "price": 179,
+          "discount": 0
+        },
+        "female": {
+          "services": ["1 Classic Haircut", "1 Manicure"],
+          "price": 179,
+          "discount": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Silver",
+    "color": "from-slate-400 to-slate-600",
+    "borderColor": "border-slate-400",
+    "iconColor": "text-slate-500",
+    "plans": [
+      {
+        "period": "1year",
+        "label": "12 Months",
+        "male": {
+          "services": ["4 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Beard Styling & Trim", "1 Deep Hair Spa"],
+          "price": 1199,
+          "discount": 10
+        },
+        "female": {
+          "services": ["4 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Manicure & Pedicure", "1 Deep Hair Spa"],
+          "price": 1199,
+          "discount": 10
+        }
+      },
+      {
+        "period": "6months",
+        "label": "6 Months",
+        "male": {
+          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Beard Styling & Trim"],
+          "price": 649,
+          "discount": 0
+        },
+        "female": {
+          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Manicure & Pedicure"],
+          "price": 649,
+          "discount": 0
+        }
+      },
+      {
+        "period": "3months",
+        "label": "3 Months",
+        "male": {
+          "services": ["1 Premium Haircut & Style", "1 Beard Styling & Trim"],
+          "price": 349,
+          "discount": 0
+        },
+        "female": {
+          "services": ["1 Premium Haircut & Style", "1 Manicure & Pedicure"],
+          "price": 349,
+          "discount": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gold",
+    "color": "from-gold-400 to-gold-600",
+    "borderColor": "border-gold-400",
+    "iconColor": "text-gold-500",
+    "plans": [
+      {
+        "period": "1year",
+        "label": "12 Months",
+        "male": {
+          "services": ["Unlimited Premium Haircuts & Style", "4 Luxury Facial Treatments", "3 Hair Coloring & Highlights", "2 Deep Hair Spa", "4 Beard Styling & Trim"],
+          "price": 3000,
+          "discount": 20
+        },
+        "female": {
+          "services": ["Unlimited Premium Haircuts & Style", "4 Luxury Facial Treatments", "3 Hair Coloring & Highlights", "2 Deep Hair Spa", "4 Manicure & Pedicure"],
+          "price": 2399,
+          "discount": 20
+        }
+      },
+      {
+        "period": "6months",
+        "label": "6 Months",
+        "male": {
+          "services": ["6 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Hair Coloring & Highlights", "1 Deep Hair Spa", "2 Beard Styling & Trim"],
+          "price": 1299,
+          "discount": 10
+        },
+        "female": {
+          "services": ["6 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Hair Coloring & Highlights", "1 Deep Hair Spa", "2 Manicure & Pedicure"],
+          "price": 1299,
+          "discount": 10
+        }
+      },
+      {
+        "period": "3months",
+        "label": "3 Months",
+        "male": {
+          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Hair Coloring & Highlights", "1 Beard Styling & Trim"],
+          "price": 699,
+          "discount": 0
+        },
+        "female": {
+          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Hair Coloring & Highlights", "1 Manicure & Pedicure"],
+          "price": 699,
+          "discount": 0
+        }
+      }
+    ],
+    "popular": true
+  }
+]

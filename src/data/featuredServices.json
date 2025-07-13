@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Haircut & Style",
+    "description": "Professional styling with personalized consultation",
+    "price": 120,
+    "originalPrice": 150,
+    "discount": 20,
+    "category": "Hair",
+    "gender": "Men",
+    "image": "/lovable-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
+    "tag": "Popular"
+  },
+  {
+    "id": 2,
+    "name": "Luxury Facial Treatment",
+    "description": "Deep cleansing and rejuvenating facial therapy",
+    "price": 95,
+    "originalPrice": 120,
+    "discount": 21,
+    "category": "Skincare",
+    "gender": "Women",
+    "image": "/lovable-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
+    "tag": "Trending"
+  },
+  {
+    "id": 3,
+    "name": "Manicure & Pedicure",
+    "description": "Complete nail care with premium products",
+    "price": 80,
+    "originalPrice": 100,
+    "discount": 20,
+    "category": "Nails",
+    "gender": "Women",
+    "image": "/lovable-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
+    "tag": "Special"
+  },
+  {
+    "id": 4,
+    "name": "Hair Coloring & Highlights",
+    "description": "Expert color treatments with premium brands",
+    "price": 180,
+    "originalPrice": 220,
+    "discount": 18,
+    "category": "Hair",
+    "gender": "Women",
+    "image": "/lovable-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
+    "tag": "New"
+  },
+  {
+    "id": 5,
+    "name": "Beard Styling & Trim",
+    "description": "Precision grooming for the modern gentleman",
+    "price": 35,
+    "originalPrice": 45,
+    "discount": 22,
+    "category": "Grooming",
+    "gender": "Men",
+    "image": "/lovable-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
+    "tag": "Bestseller"
+  }
+]

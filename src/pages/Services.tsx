@@ -170,6 +170,7 @@ const Services = () => {
                 <SelectContent className="bg-white z-50">
                   <SelectItem value="all">All Categories</SelectItem>
                   <SelectItem value="Hair">Hair</SelectItem>
+                  <SelectItem value="Face">Face</SelectItem>
                   <SelectItem value="Skincare">Skincare</SelectItem>
                   <SelectItem value="Nails">Nails</SelectItem>
                   <SelectItem value="Grooming">Grooming</SelectItem>

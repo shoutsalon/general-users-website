@@ -1,22 +1,32 @@
 [
   {
-    "name": "Sarah Johnson",
+    "name": "Sk Naiyer Hosain",
     "review": "Absolutely love the atmosphere here! The stylists are incredibly talented and the service is top-notch.",
     "rating": 5
   },
   {
-    "name": "Michael Chen",
-    "review": "Best haircut I've had in years. The attention to detail and professionalism is outstanding.",
+    "name": "Goutam Mandal",
+    "review": "The staffs here work very carefully and the style is very UNIQUE.",
     "rating": 5
   },
   {
-    "name": "Emma Davis",
-    "review": "The luxury experience makes it so comfortable for everyone. Highly recommend their spa treatments!",
+    "name": "Nabanita Panigrahi",
+    "review": "The ambiance of the salon is very calm & relaxing. Best salon in Contai I would say.",
     "rating": 4
   },
   {
-    "name": "James Wilson",
+    "name": "Sudip Jana",
     "review": "Great experience every time. The booking system is easy and the staff always remembers my preferences.",
     "rating": 5
+  },
+  {
+    "name": "Sampurna Ghosh",
+    "review": "In this price range, it is THE best I can say. With in this range no one can offer you this much. Went 3 times there, everytime they impress with different features.",
+    "rating": 5
+  },
+  {
+    "name": "Anindita Guha",
+    "review": "Once you get into the salon, they treat you like a queen. They offer water, coffee as they know my nanoplastia gonna take long time.",
+    "rating": 4
   }
 ]

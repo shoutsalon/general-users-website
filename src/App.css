@@ -1,8 +1,45 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+/* Lightning strike animation for Coming Soon button */
+.lightning-animation {
+  animation: lightning 3s ease-in-out infinite;
+}
+
+@keyframes lightning {
+  0% { 
+    transform: translateX(-200%) skewX(-12deg);
+    opacity: 0;
+    box-shadow: 0 0 0 rgba(255, 255, 255, 0);
+  }
+  10% { 
+    opacity: 1;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+  }
+  50% { 
+    transform: translateX(0%) skewX(-12deg);
+    opacity: 1;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 1);
+  }
+  90% { 
+    opacity: 1;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+  }
+  100% { 
+    transform: translateX(200%) skewX(-12deg);
+    opacity: 0;
+    box-shadow: 0 0 0 rgba(255, 255, 255, 0);
+  }
+}
+
+/* Additional styles for the lightning effect element */
+.lightning-strike {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 8px;
+  background: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.9), transparent);
+  transform: skewX(-12deg);
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.6);
 }
 
 .logo {

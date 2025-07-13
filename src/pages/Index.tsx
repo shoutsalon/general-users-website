@@ -193,6 +193,12 @@ const Index = () => {
       <section id="memberships" className="py-20 bg-navy-900" ref={membershipsRef}>
         <div className="container mx-auto px-6">
           <div className="text-center mb-16">
+            <div className="mb-8">
+              <button className="relative overflow-hidden bg-gradient-to-r from-gold-500 to-gold-600 hover:from-gold-600 hover:to-gold-700 text-white font-semibold px-8 py-3 rounded-full shadow-lg transition-all duration-300 hover:shadow-2xl hover:-translate-y-1">
+                <span className="relative z-10">Coming Soon</span>
+                <div className="lightning-strike lightning-animation"></div>
+              </button>
+            </div>
             <h2 className="text-4xl md:text-5xl font-bold text-cream-100 mb-4">Exclusive Memberships</h2>
             <p className="text-xl text-cream-200">Unlock unlimited luxury with our premium subscription plans</p>
           </div>

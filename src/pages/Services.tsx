@@ -80,7 +80,7 @@ const Services = () => {
               </Button>
               <div className="flex items-center flex-shrink-0">
                 <img 
-                  src="/content-uploads/logo_final_2_remove_bg.png" 
+                  src="./content-uploads/logo_final_2_remove_bg.png" 
                   alt="SHOUT" 
                   className="w-20 h-7 sm:w-24 sm:h-8 md:w-32 md:h-10 object-contain scale-110 sm:scale-100 cursor-pointer"
                   style={{ maxWidth: '160px' }}
@@ -309,7 +309,7 @@ const Services = () => {
             <div>
               <div className="mb-4">
                 <img 
-                  src="/content-uploads/logo_final_2_remove_bg.png" 
+                  src="./content-uploads/logo_final_2_remove_bg.png" 
                   alt="SHOUT" 
                   className="w-20 h-6 sm:w-24 sm:h-8 object-contain cursor-pointer"
                   onClick={handleLogoClick}

@@ -8,7 +8,7 @@
     "discount": 20,
     "category": "Hair",
     "gender": "Men",
-    "image": "/content-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
+    "image": "./content-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
     "tag": "Popular",
     "featured": true
   },
@@ -21,7 +21,7 @@
     "discount": 21,
     "category": "Skincare",
     "gender": "Women",
-    "image": "/content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
+    "image": "./content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
     "tag": "Trending",
     "featured": true
   },
@@ -34,7 +34,7 @@
     "discount": 20,
     "category": "Nails",
     "gender": "Women",
-    "image": "/content-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
+    "image": "./content-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
     "tag": "Special",
     "featured": true
   },
@@ -47,7 +47,7 @@
     "discount": 18,
     "category": "Hair",
     "gender": "Women",
-    "image": "/content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
+    "image": "./content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
     "tag": "New",
     "featured": true
   },
@@ -60,7 +60,7 @@
     "discount": 22,
     "category": "Grooming",
     "gender": "Men",
-    "image": "/content-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
+    "image": "./content-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
     "tag": "Bestseller",
     "featured": true
   },
@@ -73,7 +73,7 @@
     "discount": 10,
     "category": "Hair",
     "gender": "Men",
-    "image": "/content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
+    "image": "./content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
     "tag": "Classic",
     "featured": false
   },
@@ -86,7 +86,7 @@
     "discount": 18,
     "category": "Spa",
     "gender": "Women",
-    "image": "/content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
+    "image": "./content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
     "tag": "Luxury",
     "featured": false
   },
@@ -99,7 +99,7 @@
     "discount": 50,
     "category": "Beauty",
     "gender": "Women",
-    "image": "/content-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
+    "image": "./content-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
     "tag": "Quick",
     "featured": false
   },
@@ -112,7 +112,7 @@
     "discount": 20,
     "category": "Spa",
     "gender": "Women",
-    "image": "/content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
+    "image": "./content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
     "tag": "Relaxing",
     "featured": false
   }

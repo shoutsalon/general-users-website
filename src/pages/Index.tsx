@@ -52,7 +52,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center">
               <img
-                src="/content-uploads/logo_final_2_remove_bg.png"
+                src="./content-uploads/logo_final_2_remove_bg.png"
                 alt="SHOUT"
                 className="w-28 h-10 sm:w-32 sm:h-10 md:w-40 md:h-12 object-contain scale-110 sm:scale-100 cursor-pointer"
                 style={{ maxWidth: '160px' }}
@@ -82,7 +82,7 @@ const Index = () => {
         <div
           className="absolute inset-0 bg-cover bg-center scale-105 transform transition-transform duration-10000 hover:scale-110"
           style={{
-            backgroundImage: `url('/content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png')`
+            backgroundImage: `url('./content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png')`
           }}
         ></div>
         <div className="relative z-20 text-center text-white max-w-4xl mx-auto px-6">

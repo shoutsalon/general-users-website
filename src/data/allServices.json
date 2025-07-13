@@ -8,7 +8,7 @@
     "discount": 30,
     "category": "Hair",
     "gender": "Men",
-    "image": "./content-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
+    "image": "./content-uploads/hair_cut_male.png",
     "tag": "Bestseller",
     "featured": true
   },
@@ -21,34 +21,34 @@
     "discount": 30,
     "category": "Hair",
     "gender": "Women",
-    "image": "./content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
+    "image": "./content-uploads/hair_cut_female.png",
     "tag": "Bestseller",
     "featured": true
   },
   {
     "id": 3,
-    "name": "Luxury Facial(Lotus)",
+    "name": "Luxury Facial (Lotus)",
     "description": "Expert treatment with premium products",
     "price": 210,
     "originalPrice": 300,
     "discount": 30,
     "category": "Face",
     "gender": "Women",
-    "image": "./content-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
+    "image": "./content-uploads/Woman_Luxury_Facial_Lotus.png",
     "tag": "Special",
     "featured": true
   },
   {
     "id": 4,
-    "name": "Luxury Facial(Lotus)",
+    "name": "Luxury Facial (Lotus)",
     "description": "Expert treatment with premium products",
     "price": 210,
     "originalPrice": 300,
     "discount": 30,
     "category": "Face",
     "gender": "Men",
-    "image": "./content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
-    "tag": "Trending",
+    "image": "./content-uploads/Man_Luxury_Facial_Lotus.png",
+    "tag": "Special",
     "featured": true
   },
   {
@@ -60,7 +60,7 @@
     "discount": 30,
     "category": "Grooming",
     "gender": "Men",
-    "image": "./content-uploads/f386c256-c913-40a5-85fc-623abe7601ce.png",
+    "image": "./content-uploads/Man_Beard_Styling_And_Trim.png",
     "tag": "Trending",
     "featured": true
   },
@@ -73,8 +73,8 @@
     "discount": 30,
     "category": "Hair",
     "gender": "women",
-    "image": "./content-uploads/72c64973-74b6-4dfb-8b5f-b0145483e0af.png",
-    "tag": "Classic",
+    "image": "./content-uploads/Woman_Deep_Hair_Spa.png",
+    "tag": "Luxury",
     "featured": false
   },
   {
@@ -86,33 +86,33 @@
     "discount": 30,
     "category": "Hair",
     "gender": "Men",
-    "image": "./content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
+    "image": "./content-uploads/Man_Deep_Hair_Spa.png",
     "tag": "Luxury",
     "featured": false
   },
   {
     "id": 8,
-    "name": "De-Tan(Lotus)",
+    "name": "De-Tan (Lotus)",
     "description": "skincare treatment designed to restore the skin's natural tone",
     "price": 175,
     "originalPrice": 250,
     "discount": 30,
     "category": "Beauty",
     "gender": "Men",
-    "image": "./content-uploads/5696b6e9-6a4a-4455-bb7b-98e02541895f.png",
+    "image": "./content-uploads/Man_De_Tan_Lotus.png",
     "tag": "Relaxing",
     "featured": false
   },
   {
     "id": 9,
-    "name": "De-Tan(Lotus)",
+    "name": "De-Tan (Lotus)",
     "description": "skincare treatment designed to restore the skin's natural tone",
     "price": 175,
     "originalPrice": 250,
     "discount": 30,
     "category": "Beauty",
     "gender": "Women",
-    "image": "./content-uploads/e6adc021-1a95-429a-8e90-02c129219e44.png",
+    "image": "./content-uploads/Woman_De_Tan_Lotus.png",
     "tag": "Relaxing",
     "featured": false
   }

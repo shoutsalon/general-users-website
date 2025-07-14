@@ -1,4 +1,3 @@
-
 [
   {
     "id": 1,
@@ -8,45 +7,72 @@
     "iconColor": "text-orange-500",
     "plans": [
       {
-        "period": "1year",
-        "label": "12 Months",
+        "period": "3months",
+        "label": "3 Months",
         "male": {
-          "services": ["2 Classic Haircuts", "1 Beard Styling & Trim", "1 Eyebrow Shaping"],
-          "price": 599,
-          "discount": 50
+          "services": [
+            "4 Classic Haircuts",
+            "4 Beard Styling & Trim",
+            "4 Soft massages and hairwash"
+          ],
+          "price": 600,
+          "discount": 0
         },
         "female": {
-          "services": ["2 Classic Haircuts", "1 Manicure", "1 Eyebrow Shaping"],
-          "price": 599,
-          "discount": 50
+          "services": [
+            "3 Classic Haircuts",
+            "3 Eye brow",
+            "3 Soft massages and hairwash",
+            "2 De-tan"
+          ],
+          "price": 750,
+          "discount": 0
         }
       },
       {
         "period": "6months",
         "label": "6 Months",
         "male": {
-          "services": ["2 Classic Haircuts", "1 Beard Styling & Trim"],
-          "price": 329,
-          "discount": 0
+          "services": [
+            "8 Classic Haircuts",
+            "8 Beard Styling & Trim",
+            "8 Soft massages and hairwash"
+          ],
+          "price": 990,
+          "discount": 10
         },
         "female": {
-          "services": ["2 Classic Haircuts", "1 Manicure"],
-          "price": 329,
-          "discount": 0
+          "services": [
+            "6 Classic Haircuts",
+            "6 Eye brow",
+            "6 Soft massages and hairwash",
+            "3 De-tan"
+          ],
+          "price": 1260,
+          "discount": 10
         }
       },
       {
-        "period": "3months",
-        "label": "3 Months",
+        "period": "1year",
+        "label": "12 Months",
         "male": {
-          "services": ["1 Classic Haircut", "1 Beard Styling & Trim"],
-          "price": 179,
-          "discount": 0
+          "services": [
+            "13 Classic Haircuts",
+            "13 Beard Styling & Trim",
+            "13 Soft massages and hairwash"
+          ],
+          "price": 1440,
+          "discount": 20
         },
         "female": {
-          "services": ["1 Classic Haircut", "1 Manicure"],
-          "price": 179,
-          "discount": 0
+          "services": [
+            "12 Classic Haircuts",
+            "12 Eye brow",
+            "12 Soft massages and hairwash",
+            "6 De-tan"
+          ],
+          "price": 2320,
+          "discount": 20
         }
       }
     ]
@@ -59,45 +85,78 @@
     "iconColor": "text-slate-500",
     "plans": [
       {
-        "period": "1year",
-        "label": "12 Months",
+        "period": "3months",
+        "label": "3 Months",
         "male": {
-          "services": ["4 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Beard Styling & Trim", "1 Deep Hair Spa"],
-          "price": 1199,
-          "discount": 10
+          "services": [
+            "6 Classic Haircuts",
+            "6 Beard Styling & Trim",
+            "6 Soft massages and hairwash",
+            "3 De-Tan"
+          ],
+          "price": 1300,
+          "discount": 0
         },
         "female": {
-          "services": ["4 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Manicure & Pedicure", "1 Deep Hair Spa"],
-          "price": 1199,
-          "discount": 10
+          "services": [
+            "4 Classic Haircuts",
+            "4 Eye brow",
+            "4 Soft massages and hairwash",
+            "3 De-Tan",
+            "1facial with Lotus product"
+          ],
+          "price": 1500,
+          "discount": 0
         }
       },
       {
         "period": "6months",
         "label": "6 Months",
         "male": {
-          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Beard Styling & Trim"],
-          "price": 649,
+          "services": [
+            "10 Classic Haircuts",
+            "10 Beard Styling & Trim",
+            "10 Soft massages and hairwash",
+            "5 De-Tan"
+          ],
+          "price": 2300,
           "discount": 0
         },
         "female": {
-          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Manicure & Pedicure"],
-          "price": 649,
+          "services": [
+            "7 Classic Haircuts",
+            "7 Eye brow",
+            "7 Soft massages and hairwash",
+            "4 De-Tan",
+            "2facial with Lotus product"
+          ],
+          "price": 2550,
           "discount": 0
         }
       },
       {
-        "period": "3months",
-        "label": "3 Months",
+        "period": "1year",
+        "label": "12 Months",
         "male": {
-          "services": ["1 Premium Haircut & Style", "1 Beard Styling & Trim"],
-          "price": 349,
-          "discount": 0
+          "services": [
+            "15 Classic Haircuts",
+            "15 Beard Styling & Trim",
+            "15 Soft massages and hairwash",
+            "8 De-Tan"
+          ],
+          "price": 3150,
+          "discount": 10
         },
         "female": {
-          "services": ["1 Premium Haircut & Style", "1 Manicure & Pedicure"],
-          "price": 349,
-          "discount": 0
+          "services": [
+            "13 Classic Haircuts",
+            "13 Eye brow",
+            "13 Soft massages and hairwash",
+            "7 De-Tan",
+            "3 facial with Lotus product"
+          ],
+          "price": 4005,
+          "discount": 10
         }
       }
     ]
@@ -110,45 +169,81 @@
     "iconColor": "text-gold-500",
     "plans": [
       {
-        "period": "1year",
-        "label": "12 Months",
+        "period": "3months",
+        "label": "3 Months",
         "male": {
-          "services": ["Unlimited Premium Haircuts & Style", "4 Luxury Facial Treatments", "3 Hair Coloring & Highlights", "2 Deep Hair Spa", "4 Beard Styling & Trim"],
-          "price": 3000,
-          "discount": 20
+          "services": [
+            "8 Classic Haircuts",
+            "8 Beard Styling & Trim",
+            "8 Soft massages and hairwash",
+            "4 De-Tan",
+            "1 Facial with Lotus Product"
+          ],
+          "price": 2200,
+          "discount": 0
         },
         "female": {
-          "services": ["Unlimited Premium Haircuts & Style", "4 Luxury Facial Treatments", "3 Hair Coloring & Highlights", "2 Deep Hair Spa", "4 Manicure & Pedicure"],
-          "price": 2399,
-          "discount": 20
+          "services": [
+            "5 Classic Haircuts",
+            "5  eye brow",
+            "5 Soft massages and hairwash",
+            "4 De-Tan",
+            "2 Facial with Lotus Product"
+          ],
+          "price": 2250,
+          "discount": 0
         }
       },
       {
         "period": "6months",
         "label": "6 Months",
         "male": {
-          "services": ["6 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Hair Coloring & Highlights", "1 Deep Hair Spa", "2 Beard Styling & Trim"],
-          "price": 1299,
+          "services": [
+            "12 Classic Haircuts",
+            "12 Beard Styling & Trim",
+            "12 Soft massages and hairwash",
+            "6 De-Tan",
+            "2 Facial with Lotus Product"
+          ],
+          "price": 3150,
           "discount": 10
         },
         "female": {
-          "services": ["6 Premium Haircuts & Style", "2 Luxury Facial Treatments", "2 Hair Coloring & Highlights", "1 Deep Hair Spa", "2 Manicure & Pedicure"],
-          "price": 1299,
+          "services": [
+            "8 Classic Haircuts",
+            "8 eye brow",
+            "8 Soft massages and hairwash",
+            "5 De-Tan",
+            "3 Facial with Lotus Product"
+          ],
+          "price": 2970,
           "discount": 10
         }
       },
       {
-        "period": "3months",
-        "label": "3 Months",
+        "period": "1year",
+        "label": "12 Months",
         "male": {
-          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Hair Coloring & Highlights", "1 Beard Styling & Trim"],
-          "price": 699,
-          "discount": 0
+          "services": [
+            "16 Classic Haircuts",
+            "16 Beard Styling & Trim",
+            "16 Soft massages and hairwash",
+            "10 De-Tan",
+            "4 Facial with Lotus Product"
+          ],
+          "price": 4480,
+          "discount": 20
         },
         "female": {
-          "services": ["2 Premium Haircuts & Style", "1 Luxury Facial Treatment", "1 Hair Coloring & Highlights", "1 Manicure & Pedicure"],
-          "price": 699,
-          "discount": 0
+          "services": [
+            "14 Classic Haircuts",
+            "14 eye brow",
+            "14 Soft massages and hairwash",
+            "8 De-Tan",
+            "5 Facial with Lotus Product"
+          ],
+          "price": 4480,
+          "discount": 20
         }
       }
     ],
